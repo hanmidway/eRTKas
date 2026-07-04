@@ -1,3 +1,7 @@
+git add .
+git commit -m "retry pages"
+git push
+
 # eRTKas
 eRTKas adalah aplikasi digital untuk mengelola administrasi dan keuangan RT secara mudah, cepat, dan transparan.
 # 🏡 eRTKas
